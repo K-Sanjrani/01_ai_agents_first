@@ -1,0 +1,2 @@
+Swarm
+OpenAI's Swarm is an experimental framework designed to facilitate the orchestration of multi-agent systems in an ergonomic and lightweight manner. It introduces two primary abstractions: Agents and handoffs.
